@@ -1,6 +1,6 @@
 ## Eric Hughes
 
-Computer Science student who builds full-stack web apps in Python and JavaScript. I like projects that pull real data from external APIs, and I care about the unglamorous parts: input validation, error handling, tests, and READMEs that tell the truth about what the code does.
+Computer Science sophomore who builds full-stack web apps in Python and JavaScript. I like projects that pull real data from external APIs, and I care about the unglamorous parts: input validation, error handling, tests, and READMEs that tell the truth about what the code does.
 
 **Next up:** user authentication for AniTracker, and getting more comfortable with testing and CI.
 
@@ -17,13 +17,7 @@ A time-series experiment built around careful evaluation. It uses a chronologica
 **[Cosmic Treasure Hunt](https://github.com/EricValentino/Interactive-Website)** · JavaScript · Canvas · Web Audio API · [live](https://vxentino.neocities.org)<br>
 A multi-page browser game written without frameworks or engines. The centerpiece is a canvas bullet-hell boss fight with a three-phase state machine, several attack patterns and a parry mechanic, plus sound effects synthesized at runtime with the Web Audio API.
 
-<details>
-<summary><b>Smaller experiments</b></summary>
-
-- **[OpenGL Cube](https://github.com/EricValentino/OpenGL-Cube)**: a rotating cube in fixed-function OpenGL with Pygame; perspective projection, matrix stack, depth testing
-- **[Heart Grove](https://github.com/EricValentino/Roblox-Game)**: a Roblox Studio world with Lua scripting for teleports, NPC dialogue and UI effects
-
-</details>
+**Also:** [OpenGL Cube](https://github.com/EricValentino/OpenGL-Cube), a rotating cube in fixed-function OpenGL with Pygame (perspective projection, matrix stack, depth testing).
 
 ---
 
@@ -31,11 +25,11 @@ A multi-page browser game written without frameworks or engines. The centerpiece
 
 | Area | Tools |
 |---|---|
-| Languages | Python, JavaScript, HTML/CSS, Lua |
+| Languages | Python, JavaScript, HTML/CSS |
 | Backend | FastAPI, SQLModel / SQLAlchemy, SQLite, REST and GraphQL APIs, httpx |
 | Frontend | Vanilla JS, Canvas 2D, Web Audio API, GSAP |
 | ML and data | PyTorch, pandas, NumPy, Matplotlib |
-| Graphics and games | PyOpenGL, Pygame, Roblox Studio |
+| Graphics | PyOpenGL, Pygame |
 | Tooling | Git, GitHub, virtual environments |
 
 **Learning:** pytest, GitHub Actions, authentication and authorization, database migrations.
